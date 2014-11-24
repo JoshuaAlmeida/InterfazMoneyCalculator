@@ -1,0 +1,131 @@
+﻿Dólar australiano;AUD;$
+Lek albanés;ALL;ALL
+Dinar;argelino;DZD;دج	
+Peso argentino;ARS;$	
+Florín arubeño;AWG;ƒ	
+Libra esterlina;GBP;£
+Dólar de las Bahamas;BSD;B$
+Dinar de Bahréin;BHD;.د.ب	
+Taka de Bangladesh;BDT;Tk
+Dólar de Barbados;BBD;BBD
+Rublo bielorruso;BYR;Br
+Dólar de Belice;BZD;BZ$
+Dólar de Bermudas;BMD;BD$
+Ngultrum de Bhutan;BTN;Nu
+Boliviano;BOB;Bs
+Pula de Botsuana;BWP;P
+Real brasileño;BRL;R$
+Dólar de Brunéi;BND;B$
+Lev búlgaro;BGN;лв
+Franco burundí;BIF;FBu
+Dólar canadiense;CAD;C$
+Yuan chino;CNY;¥
+Riel camboyano;KHR;KHR
+Escudo caboverdiano;CVE;Esc
+Dólar de las Islas Caimán;KYD;$
+Franco CFA (BCEAO);XOF;BCEAO
+Franco CFA (BEAC);XAF;BEAC
+Peso chileno;CLP;$
+Peso colombiano;COP;$
+Franco comorano;KMF;KMF
+Colón costarricense;CRC;₡
+Kuna croata;HRK;kn
+Peso cubano;CUP;$MN
+Corona checa;CZK;Kč
+Corona danesa;DKK;kr
+Franco yibutiano;DJF;Fdj
+Peso dominicano;DOP;RD$
+Euro;EUR;€
+Dólar del Caribe Oriental;XCD;EC$
+Libra egipcia;EGP;ج.م
+El Colon del Salvador;SVC;₡
+Corona estonia;EEK;EEK
+Birr etíope;ETB;Br
+Libra malvinense;FKP;£
+Dólar de Fiji;FJD;FJ$
+Dalasi gambiano;GMD;D
+Quetzal de Guatemala;GTQ;Q
+Franco guineano;GNF;FG
+Dólar guyanés;GYD;GY$
+Cedi ghanes;GHS;GHS
+Dólar de Hong Kong;HKD;HK$		
+Lempira hondureña;HNL;L
+Florín húngaro;HUF;Ft
+Rupia indonesia;IDR;Rp
+Rupia india;INR;Rs
+Corona islandesa;ISK;kr		
+Dinar iraquí;IQD;ع.د
+Shekel israelí;ILS;₪
+Yen japonés;JPY;¥
+Dinar jordano;JOD;JOD
+Tenge kazako;KZT;KZT
+Chelín keniano;KES;KSh
+Won coreano;KRW;₩
+Dinar kuwaití;KWD;د.ك	
+Kirguistán Som;KGS;KGS
+Pataca de Macao;MOP;$	
+Dinar macedonio;MKD;MKD
+Kwacha malawiano;MWK;MK
+Ringgit malayo;MYR;RM
+Rupia de Maldivas;MVR;Rf
+Ouguiya de Mauritania;MRO;UM
+Rupia mauricia;MUR;₨
+Peso mexicano;MXN;$
+Leu moldavo;MDL;MDL
+Tugrik mongol;MNT;₮
+Dirham marroquí;MAD;د.م.	
+Kyat de Myanmar;MMK;K
+Dólar de Namibia;NAD;N$
+Rupia nepalí;NPR;₨
+Guilder antillano;ANG;NAƒ
+Dólar neozelandés;NZD;$
+Córdoba nicaragüense;NIO;C$
+Naira nigeriano;NGN;₦
+Won de Corea del Norte;KPW;₩
+Corona noruega;NOK;kr
+Rial omaní;OMR;ر.ع.
+Franco CFP;XPF;F
+Rupia pakistaní;PKR;Rs
+Balboa panameño;PAB;B
+Kina de Papúa Nueva Guinea;PGK;K		
+Nuevo Sol peruano;PEN;S/
+Peso filipino;PHP;₱
+Zloty polaco;PLN;zł
+Riyal Qatarí;QAR;ر.ق	
+Leu rumano;RON;L
+Rublo ruso;RUB;руб
+Franco ruandés;RWF;RF
+Franco suizo;CHF;CHF
+Tala de Samoa;WST;WS$
+Dobra de Santo Tomé;STD;Db
+Riyal saudí;SAR;ر.س
+Rupia de Seychelles;SCR;SR
+Leone de Sierra Leona;SLL;Le
+Dólar de Singapur;SGD;S$
+Corona eslovaca;SKK;Sk
+Dólar de las Islas Salomón;SBD;SI$
+Chelín somalí;SOS;So
+Rand sudafricano;ZAR;R
+Rupia de Sri Lanka;LKR;ரூ
+Libra de Santa Helena;SHP;£
+Libra sudanesa;SDG;SDG
+Lilangeni de Suazilandia;SZL;SZL
+Corona sueca;SEK;kr
+Libra siria;SYP;SYP
+Baht tailandés;THB;฿
+Lira turca;TRY;YTL
+Dólar taiwanés;TWD;NT$
+Chelín tanzano;TZS;x
+Pa'anga del Reino de Tonga;TOP;T$
+Dólar de Trinidad y Tobago;TTD;TTD
+Dinar tunecino;TND;د.ت	
+Dólar estadounidense;USD;$	
+Dirham de Emiratos Arabes Unidos;AED;د.إ
+Chelín ugandés;UGX;USh			
+Peso uruguayo;UYU;UYU
+Uzbekistán Sum;UZS;UZS
+Vatu de Vanuatu;VUV;Vt
+Dong de Vietnam;VND;₫
+Bolívar venezolano;VEF;VEF
+Rial yemení;YER;YER
+Kwacha zambiano;ZMK;ZMK

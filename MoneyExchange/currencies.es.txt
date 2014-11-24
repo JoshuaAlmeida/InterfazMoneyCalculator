@@ -1,0 +1,3 @@
+€;euro;EUR
+$;dollar;USD
+P;peso;PES

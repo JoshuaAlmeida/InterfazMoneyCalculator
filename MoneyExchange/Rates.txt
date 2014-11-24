@@ -1,0 +1,2 @@
+USD;EUR;0.15
+PES;EUR;0.20
